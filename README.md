@@ -1,6 +1,5 @@
 ### Welcome to our Docker installation readme For Groupe_test :)
 
-User1 modif ok 
 
 ## Download & install Docker
 
