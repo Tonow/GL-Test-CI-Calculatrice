@@ -6,7 +6,7 @@ nouveau message modif pull
 
 #### Linux
 ##### Ubuntu
-> * https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/ 
+> * https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
 ##### Debian
 > * https://docs.docker.com/engine/installation/linux/docker-ce/debian/
 ##### CentOS
